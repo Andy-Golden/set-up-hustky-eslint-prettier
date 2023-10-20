@@ -7,6 +7,7 @@
     {
       "files": ["*.js", "*.jsx", "*.ts", "*.tsx", "*.css"],
       "extends": [
+        "prettier",
         "standard-with-typescript",
         "plugin:react/recommended",
         "eslint:recommended",
@@ -27,7 +28,8 @@
   },
   "rules": {
     "no-unused-vars": "error",
-    "no-console": "error"
+    "no-console": "error",
+    "prettier/prettier": ["error"]
   },
   "globals": {
     "JSX": "readonly"
