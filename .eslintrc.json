@@ -27,7 +27,6 @@
   },
   "rules": {
     "no-unused-vars": "error",
-    "react/react-in-jsx-scope": ["off"],
-    "react/jsx-uses-react": ["off"]
+    "no-console": "error"
   }
 }
