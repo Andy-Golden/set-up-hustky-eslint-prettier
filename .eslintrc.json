@@ -28,5 +28,8 @@
   "rules": {
     "no-unused-vars": "error",
     "no-console": "error"
+  },
+  "globals": {
+    "JSX": "readonly"
   }
 }
