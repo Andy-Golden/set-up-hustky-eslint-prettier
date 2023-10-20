@@ -9,13 +9,14 @@ function App(): JSX.Element {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> test new commit.
+          Edit <code>src/App.tsx</code> test new commit1
         </p>
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
-          rel="noopener noreferrer">
+          rel="noopener noreferrer"
+        >
           Learn React
         </a>
       </header>
