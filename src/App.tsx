@@ -9,7 +9,7 @@ function App(): JSX.Element {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> test new commit1
+          Edit <code>src/App.tsx</code> test invalid commit
         </p>
         <a
           className="App-link"
